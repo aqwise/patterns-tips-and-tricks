@@ -1,0 +1,41 @@
+# Maven target directory
+/target/
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+
+# Logs
+*.log
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Compiled class files
+*.class
+
+# Maven Wrapper files
+.mvn/wrapper/maven-wrapper.jar
+.mvn/wrapper/maven-wrapper.properties
+.mvn/wrapper/MavenWrapperDownloader.java
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~.nib
+*~.py
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore VSCode files
+.vscode/
+
+# Ignore any other IDE-specific files
